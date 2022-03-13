@@ -22,38 +22,28 @@ All sprints were completed as scheduled and I delivered on all client expectatio
 
 ### Deliverable 1: Preprocessing the Data for PCA
 
-This deliverable required me to create a new database with Amazon RDS (Relational Database Service) and add database tables and data to this database using pgADMIN.  The data was successfully loaded using my PySpark ETL pipleline.
-
-![](https://github.com/SheaButta/Amazon_Vine_Analysis/blob/main/Images/customer.PNG)
+![](https://github.com/SheaButta/Cryptocurrencies/blob/main/Images/Preprocessing.PNG)
 
 
 ### Deliverable 2: Reducing Data Dimensions Using PCA
 
-This deliverable required me to collect and manipulate the dataset to generate various calculations which will help determine bias of vine review.  The various calculated parts are identified below to help determine the possibility of bias of Vine Reviews.
-
-   _**Percentage of non-Vine reviews were 5 stars**_
-   
-   ![](https://github.com/SheaButta/Amazon_Vine_Analysis/blob/main/Images/Percent_UNPAID_5Star.PNG)
+   ![](https://github.com/SheaButta/Cryptocurrencies/blob/main/Images/PCA.PNG)
 
 
 ### Deliverable 3: Clustering Cryptocurrencies Using K-means
 
-This deliverable required me to collect and manipulate the dataset to generate various calculations which will help determine bias of vine review.  The various calculated parts are identified below to help determine the possibility of bias of Vine Reviews.
-
-   _**Percentage of non-Vine reviews were 5 stars**_
+   ![](https://github.com/SheaButta/Cryptocurrencies/blob/main/Images/K-means.PNG)
    
-   ![](https://github.com/SheaButta/Amazon_Vine_Analysis/blob/main/Images/Percent_UNPAID_5Star.PNG)
+   ![](https://github.com/SheaButta/Cryptocurrencies/blob/main/Images/3D-Scatter-with-PCA-data-and-the-clusters.PNG)
    
 
 ### Deliverable 4: Visualizing Cryptocurrencies Results
-
-This deliverable required me to collect and manipulate the dataset to generate various calculations which will help determine bias of vine review.  The various calculated parts are identified below to help determine the possibility of bias of Vine Reviews.
-
-   _**Percentage of non-Vine reviews were 5 stars**_
    
-   ![](https://github.com/SheaButta/Amazon_Vine_Analysis/blob/main/Images/Percent_UNPAID_5Star.PNG)
+   ![](https://github.com/SheaButta/Cryptocurrencies/blob/main/Images/Deliv4-Data-to-Visualize.PNG)
+   
+   ![](https://github.com/SheaButta/Cryptocurrencies/blob/main/Images/Deliv4-Visualization.PNG)
 
 
    
 ## Summary
-The review of the data appears to show some bias in the Vine program for the non-Vine 5-Star reviews.  Although the percentage of bias is not even 50%, 47% is stil relatively close.  Some additional analysis to capture mean, median and mode of the Vine and non-Vine reviews would help quantify this review.
+The review of the data and visualizations indicates cryptocurrencies can be clustered together into 4 distinct groups. 
